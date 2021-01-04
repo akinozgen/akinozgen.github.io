@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Gerekli gereksiz notlar tuttuğum yer
+yok bi şe devam et.
